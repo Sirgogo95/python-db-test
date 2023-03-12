@@ -1,0 +1,786 @@
+Codigo,Familias,Nombre,Alias,Tasa,Unidad
+AA-REFR-R410A,,Refrigerante R410A,,,Lb
+EQ-APS-REJ-HELVEX,,Rejilla de Piso Helvex,,,U
+EQ-BOM-ACFA-½,,BOMBA DE ACHIQUE FOSA ASCENSOR 1/2 HP,,,U
+EQ-BOM-BASE,,Base para Bomba,,,U
+EQ-BOM-BASE-3U,,Base para 3 equipos de bombeo,,,U
+EQ-CHQ-BOL-4,,"Cheque de Bola 4""",,,U
+EQ-CHQS-2.5,,"Cheques silenciosos 2 1/2""",,,U
+EQ-CHQV-1½,,"Cheque Vertical 1 1/2""",,,U
+EQ-COND-EVA-FCOIL-12KBTU,,"Unidad Independiente Tipo Fan Coil de 12,000 BTU",,,U
+EQ-COND-EVA-FCOIL-18KBTU,,"Unidad Independiente Tipo Fan Coil de 18,000 BTU",,,U
+EQ-COND-EVA-FCOIL-24KBTU,,"Unidad Independiente Tipo Fan Coil de 24,000 BTU",,,U
+EQ-COND-EVA-FCOIL-30KBTU,,"Unidad Independiente Tipo Fan Coil de 30,000 BTU",,,U
+EQ-COND-EVA-FCOIL-36KBTU,,"Unidad Independiente Tipo Fan Coil de 36,000 BTU",,,U
+EQ-COND-EVA-FCOIL-48KBTU,,"Unidad Independiente Tipo Fan Coil de 48,000 BTU",,,U
+EQ-COND-EVA-FCOIL-60KBTU,,"Unidad Independiente Tipo Fan Coil de 60,000 BTU",,,U
+EQ-COND-EVA-SPLIT-PAR-12KBTU,,"Unidad Independiente Split de pared de 12,000 Btu",,,U
+EQ-COND-EVA-SPLIT-PAR-18KBTU,,"Unidad Independiente Split de pared de 18,000 Btu",,,U
+EQ-COND-EVA-SPLIT-PAR-24KBTU,,"Unidad Independiente Split de pared de 24,000 Btu",,,U
+EQ-COND-EVA-SPLIT-PAR-36KBTU,,"Unidad Independiente Split de pared de 36,000 Btu",,,U
+EQ-COND-MSPLIT-30KBTU,,"Unidad Multi-Split Condensadora de 30,000 Btu",,,U
+EQ-COND-MSPLIT-36KBTU,,"Unidad Multi-Split Condensadora de 36,000 Btu",,,U
+EQ-COND-MSPLIT-53KBTU,,"Unidad Multi-Split Condensadora de 53,000 Btu",,,U
+EQ-ELEC-ALA-12,,Alambre THHN #12,,,Pie
+EQ-ELEC-ALA-14,,Alambre THHN #14,,,Pie
+EQ-ELEC-BOM-CEFG-115GPM-50PSI-TRIF-208-230/460-3HP,,"Bomba 3 HP, centrifuga, 115 GPM vs 50 PSI, motor electrico, trifásico, 208-230/460V",,,U
+EQ-ELEC-BOM-CEFG-TRIF-230/460-15HP,,"Bomba 15 HP, centrifuga, motor electrico, trifásico,230/460V",,,U
+EQ-ELEC-BOM-CEFG-TRIF-230/460-5HP,,"Bomba 5 HP, centrifuga, motor electrico, trifásico,230/460V",,,U
+EQ-ELEC-BOM-CEFG-TRIF-230/460-7.5HP,,"Bomba 7.5 HP, centrifuga, motor electrico, trifásico,230/460V",,,U
+EQ-ELEC-BOM-CEFG-TRIF-230-1.5HP,,"Bomba 1.5 HP, centrifuga, motor electrico, trifásico,230V",,,U
+EQ-ELEC-BOM-CEFG-TRIF-300GPM-150PSI-208-230/460,,"Electrobomba centrifuga monobloque marca Franklin Electric, 300 GPM vs 150PSI, construida en hierro ductil, provista de sello mecánico, 3500 RPM, 208-230/460V, 3F, 60Hz.",,,U
+EQ-ELEC-BOM-JOCK-20GPM,,Bomba Jockey mantenedora de presión de 20 GPMvs308',,,U
+EQ-ELEC-BOM-SGBL-INTBL-5HP,,Electrobomba Sumergible No Atascable 5HP,,,U
+EQ-ELEC-PISC-PAN,,Panel para Piscina,,,U
+EQ-ELEC-VAL-FL,,Electro Valvula Flota,,,U
+EQ-EVA-FCOIL-12KBTU,,"Unidad Evaporadora Tipo Fan Coil de 12,000 BTU",,,U
+EQ-EVA-FCOIL-18KBTU,,"Unidad Evaporadora Tipo Fan Coil de 18,000 BTU",,,U
+EQ-EVA-FCOIL-24KBTU,,"Unidad Evaporadora Tipo Fan Coil de 24,000 BTU",,,U
+EQ-EVA-FCOIL-30KBTU,,"Unidad Evaporadora Tipo Fan Coil de 30,000 BTU",,,U
+EQ-EVA-FCOIL-36KBTU,,"Unidad Evaporadora Tipo Fan Coil de 36,000 BTU",,,U
+EQ-EVA-FCOIL-42KBTU,,"Unidad Evaporadora Tipo Fan Coil de 42,000 BTU",,,U
+EQ-EVA-FCOIL-48KBTU,,"Unidad Evaporadora Tipo Fan Coil de 48,000 BTU",,,U
+EQ-EVA-FCOIL-55KBTU,,"Unidad Evaporadora Tipo Fan Coil de 55,000 BTU",,,U
+EQ-EVA-FCOIL-60KBTU,,"Unidad Evaporadora Tipo Fan Coil de 60,000 BTU",,,U
+EQ-EVA-FCOIL-9KBTU,,"Unidad Evaporadora Tipo Fan Coil de 9,000 BTU",,,U
+EQ-EVA-MSPLIT-PAR-12KBTU,,"Unidad Evaporadora Multi-Split de pared de 12,000 Btu",,,U
+EQ-EVA-MSPLIT-PAR-18KBTU,,"Unidad Evaporadora  Multi-Split de pared de 18,000 Btu",,,U
+EQ-EVA-MSPLIT-PAR-24KBTU,,"Unidad Evaporadora  Multi-Split de pared de 24,000 Btu",,,U
+EQ-EVA-MSPLIT-PAR-36KBTU,,"Unidad Evaporadora  Multi-Split de pared de 36,000 Btu",,,U
+EQ-EXT-ABC-10,,Extintores ABC 10 Lbs,,,U
+EQ-EXT-CO2-10,,Extintores CO2 10 Lbs,,,U
+EQ-EXTR-FILCA,,"Extractor de Baño Broan ""Ductless"" - 682",,,U
+EQ-FAR-SUP-300W-12V,,"Farol Led de superficie 300w, 12v",,,U
+EQ-FL,,Flota,,,U
+EQ-GCI-24x30,,"Gabinetes Contra Incendios (24""x30"")",,,U
+EQ-GM-10-16,,Guardamotores 10-16 amps,,,U
+EQ-HF-CAJ-TELE-VAL,,Caja Telescopica de Hierro Fundido para Valvula,,,U
+EQ-HF-VALC-PLAT-250PSI-4,,"Valvula de Compuerta de Hierro Fundido 250 PSI 4""",,,U
+EQ-HIDR-4,,Hidrante de 4,,,U
+EQ-INST-ELEC,,Instalaciones Electricas Para Bomba,,,U
+EQ-INST-MEC,,Instalaciones Mecanicas para Bomba,,,U
+EQ-JTDR-CRIO-4,,Junta Tipo Dresser Criolla 4,,,U
+EQ-MAN-0-100PSI,,Manómetro 0-100 psi (inmerso en glicerina),,,U
+EQ-MISC-PERFILT-14,,"Perforación De Filtrante 14""",,,Pie
+EQ-PAN-VAR-1-5HP,,Panel de control con Variador de frecuencia de 5 Hp,,,U
+EQ-PAN-VAR-1-7.5HP,,Panel de control con Variador de frecuencia de 7.5 Hp,,,U
+EQ-PAN-VAR-2-15HP,,Panel de Control con Variadores de Frecuencia para 2 Bombas de 15HP,,,U
+EQ-PISC-ACM,,Ácido Muriático,,,Gl
+EQ-PISC-BOM-1,,Bomba para Piscina 1HP,,,U
+EQ-PISC-BOM-2,,Bomba para Piscina 2HP,,,U
+EQ-PISC-BOM-2.5,,Bomba para Piscina 2.5HP,,,U
+EQ-PISC-BOM-5,,Bomba para Piscina 5HP,,,U
+EQ-PISC-CEPAL,,Cepillo de Algas,,,U
+EQ-PISC-CLO,,Clorinador Para Piscina (10 pastillas),,,U
+EQ-PISC-COLF,,Colador de Fondo,,,U
+"EQ-PISC-FIL-21""",,"Filtro p/piscina. 21""",,,U
+EQ-PISC-FIL-30,,"Filtro p/piscina. 30""",,,U
+EQ-PISC-FOND-2,,"Toma de Fondo 2""",,,U
+EQ-PISC-GROUT,,Grout para Acuñe,,,Fda
+EQ-PISC-INY,,Inyector para Piscina,,,U
+EQ-PISC-LIMP,,Set de Limpieza,,,U
+EQ-PISC-MANG-40,,Manguera p/limp 40´,,,U
+EQ-PISC-RECE,,Receptáculo,,,U
+EQ-PISC-REG,,Registro electrico para luces de piscina,,,U
+EQ-PISC-SKI,,Skimmer para Piscina,,,U
+EQ-PISC-SUPBL,,Super Blue,,,U
+EQ-PISC-TUB-TELE,,Tubo Telescopico,,,U
+EQ-PISC-WURTH,,Wurth MS Pool,,,U
+EQ-RCI-EST,,Estucheon para Rociador Vikkingo Blanco,,,U
+EQ-RCI-MAN,,Manguera para rociador con rack,,,U
+EQ-RCI-RO-COL,,Rociador Colgante Respuesta Rapida Blanco 155 F,,,U
+EQ-TQH-125PSI-120GL,,"Tanque precargado, 120 gls, presión máxima 125 PSI",,,U
+EQ-TRAN-100W-12V,,Transformador 100W 12V,,,U
+EQ-VAR-3HP,,Variador de frecuencia para bomba de 3 HP,,,U
+MA-AIS-110,,Aislamiento 110 MM,,,U
+MA-AIS-20,,Aislamiento 20 MM,,,U
+MA-AIS-25,,Aislamiento 25 MM,,,U
+MA-AIS-32,,Aislamiento 32 MM,,,U
+MA-AIS-50,,Aislamiento 50 MM,,,U
+MA-AIS-63,,Aislamiento 63 MM,,,U
+MA-AIS-90,,Aislamiento 90 MM,,,U
+MA-BRON-ADA-HEM-12x½,,Adaptador de Bronce Hembra 12mmx½,,,U
+MA-BRON-ADA-HEM-15x½,,Adaptador de Bronce Hembra 15mmx½,,,U
+MA-BRON-ADA-HEM-16x½,,Adaptador de Bronce Hembra 16mmx½,,,U
+MA-BRON-COD-MH-½x90º,,Codo de Bronce Macho Hembra ½x90º,,,U
+MA-BRON-COD-MH-¾x90º,,Codo de Bronce Macho Hembra ¾x90º,,,U
+MA-BRON-COD-MH-1x90º,,Codo de Bronce Macho Hembra 1x90º,,,U
+MA-BRON-RED-¾x½,,Reduccion de Bronce ¾x½,,,U
+MA-BRON-RED-1x¾,,Reduccion de Bronce 1x¾,,,U
+MA-BRON-TAP-HEM-½,,"Tapón de Bronce hembra 1/2""",,,U
+MA-BRON-TAP-HEM-¾,,"Tapón de Bronce hembra 3/4""",,,U
+MA-BRON-TAP-MAC-½,,"Tapón de Bronce macho 1/2""",,,U
+MA-BRON-TAP-MAC-¾,,"Tapón de Bronce macho 3/4""",,,U
+MA-ELEC-ALAG-12/4,,Alambre de Goma 12/4,,,U
+MA-ELEC-ALAG-14/4,,Alambre de Goma 14/4,,,Pie
+MA-EMT-ABR-GALV-½,,EMT Abrazadera 1/2 Galv. (UNA OREJA),,,U
+MA-EMT-CAJM-4x2,,EMT Caja de Metal 4X2 KO 1/2 1.5,,,U
+MA-EMT-CONEC-½,,EMT Conector 1/2 Acero,,,U
+MA-EMT-CUR-½x90,,EMT Curva a 90º 1/2 Galv.,,,U
+MA-EMT-TAP-4x2,,EMT Tapa 4X2 Ciega Metal,,,U
+MA-EMT-TUB-½x10,,EMT Tubo 1/2 X 10',,,U
+MA-GLP-MED,,Medidor de Gas,,,U
+MA-GLP-REGU-450KBTU,,"Regulador de Gas 450,000 BTU",,,U
+MA-HG-ARA-?,,"Arandela Plana HG 3/8""",,,U
+MA-HG-ARA-¼,,"Arandela Plana HG 1/4""",,,U
+MA-HG-ARA-5/16,,"Arandela Plana HG 5/16""",,,U
+MA-HG-COD-NIP-½,,"Codo Niple hg de 1/2""",,,U
+MA-HG-NIP-¾x12,,"Niple hg Ø 3/4"" x 12' acero inoxidable",,,U
+MA-HG-TAP-MAC-½,,"Tapon Macho Hg de 1/2""",,,U
+MA-HG-TAP-MAC-¾,,"Tapon Macho Hg de 3/4""",,,U
+MA-HG-TAP-MAC-1,,"Tapon Macho Hg de 1""",,,U
+MA-HG-TAP-MAC-1½,,"Tapon Macho Hg de 1-1/2""",,,U
+MA-HN-ACO-VIT-1½,,"Acople Tipo Vitaulic 1½""",,,U
+MA-HN-ACO-VIT-2,,"Acople Tipo Vitaulic 2""",,,U
+MA-HN-ACO-VIT-2½,,"Acople Tipo Vitaulic 2½""",,,U
+MA-HN-ACO-VIT-3,,"Acople Tipo Vitaulic 3""",,,U
+MA-HN-ACO-VIT-4,,"Acople Tipo Vitaulic 4""",,,U
+MA-HN-ACO-VIT-6,,"Acople Tipo Vitaulic 6""",,,U
+MA-HN-COD-RAN-1½x45º,,"Codo HN Ranurado 1½"" x 45",,,U
+MA-HN-COD-RAN-1½x90º,,"Codo HN Ranurado 1½"" x 90",,,U
+MA-HN-COD-RAN-2½x45º,,"Codo HN Ranurado 2½"" x 45",,,U
+MA-HN-COD-RAN-2½x90º,,"Codo HN Ranurado 2½"" x 90",,,U
+MA-HN-COD-RAN-2x45º,,"Codo HN Ranurado 2"" x 45",,,U
+MA-HN-COD-RAN-2x90º,,"Codo HN Ranurado 2"" x 90",,,U
+MA-HN-COD-RAN-3x45º,,"Codo HN Ranurado 3"" x 45º",,,U
+MA-HN-COD-RAN-3x90º,,"Codo HN Ranurado 3"" x 90º",,,U
+MA-HN-COD-RAN-4x45º,,"Codo HN Ranurado 4"" x 45º",,,U
+MA-HN-COD-RAN-4x90º,,"Codo HN Ranurado 4"" x 90º",,,U
+MA-HN-COD-RAN-6x45º,,"Codo HN Ranurado 6"" x 45º",,,U
+MA-HN-COD-RAN-6x90º,,"Codo HN Ranurado 6"" x 90º",,,U
+MA-HN-COD-RO-½x45º,,"Codo HN Roscado 1/2"" x 45º",,,U
+MA-HN-COD-RO-½x90º,,"Codo HN Roscado 1/2"" x 90º",,,U
+MA-HN-COD-RO-¾x45º,,"Codo HN Roscado 3/4"" x 45º",,,U
+MA-HN-COD-RO-¾x90º,,"Codo HN Roscado 3/4"" x 90º",,,U
+MA-HN-COD-RO-1¼x45º,,"Codo HN Roscado 1 1/4"" x 45º",,,U
+MA-HN-COD-RO-1¼x90º,,"Codo HN Roscado 1 1/4"" x 90º",,,U
+MA-HN-COD-RO-1½x45º,,"Codo HN Roscado 1½"" x 45º",,,U
+MA-HN-COD-RO-1½x90º,,"Codo HN Roscado 1½"" x 90º",,,U
+MA-HN-COD-RO-1x45º,,"Codo HN Roscado 1"" x 45º",,,U
+MA-HN-COD-RO-1x90º,,"Codo HN Roscado 1"" x 90º",,,U
+MA-HN-COD-RO-2½x45º,,"Codo HN Roscado 2½"" x 45",,,U
+MA-HN-COD-RO-2½x90º,,"Codo HN Roscado 2½"" x 90",,,U
+MA-HN-COD-RO-2x45º,,"Codo HN Roscado 2"" x 45",,,U
+MA-HN-COD-RO-2x90º,,"Codo HN Roscado 2"" x 90",,,U
+MA-HN-COD-RO-3x45º,,"Codo HN Roscado 3"" x 45º",,,U
+MA-HN-COD-RO-3x90º,,"Codo HN Roscado 3"" x 90º",,,U
+MA-HN-COD-RO-4x45º,,"Codo HN Roscado 4"" x 45º",,,U
+MA-HN-COD-RO-4x90º,,"Codo HN Roscado 4"" x 90º",,,U
+MA-HN-COD-RO-6x45º,,"Codo HN Roscado 6"" x 45º",,,U
+MA-HN-COD-RO-6x90º,,"Codo HN Roscado 6"" x 90º",,,U
+MA-HN-COUP-RO-½,,"Coupling Roscado HN 1/2""",,,U
+MA-HN-COUP-RO-¾,,"Coupling Roscado HN 3/4""",,,U
+MA-HN-COUP-RO-1,,"Coupling Roscado HN 1""",,,U
+MA-HN-COUP-RO-1¼,,"Coupling Roscado HN 1 1/4"" ",,,U
+MA-HN-COUP-RO-1½,,"Coupling Roscado HN 1½"" ",,,U
+MA-HN-COUP-RO-2,,"Coupling Roscado HN 2""",,,U
+MA-HN-NIP-¼x3,,"Niple HN 1/4""x 3""",,,U
+MA-HN-NIP-¾x1½,,"Niple HN 3/4""x 1½""",,,U
+MA-HN-NIP-¾x2½,,"Niple HN 3/4""x 2½""",,,U
+MA-HN-NIP-1½x4,,"Niple HN 1½""x 4""",,,U
+MA-HN-NIP-1x2½,,"Niple HN 1""x 2½""",,,0
+MA-HN-NIP-2½x4,,"Niple HN 2½""x 4""",,,U
+MA-HN-NIP-2x15,,"Niple HN 2"" x 15""",,,U
+MA-HN-NIP-2x4,,"Niple HN 2""x 4""",,,U
+MA-HN-RED-¾x½,,"Reduccion HN 3/4"" x 1/2""",,,U
+MA-HN-RED-1½x¼,,"Reduccion HN 1½"" x 1/4""",,,U
+MA-HN-RED-1½x½,,"Reduccion HN 1½"" x 1/2""",,,U
+MA-HN-RED-1½x¾,,"Reduccion HN 1½"" x 3/4""",,,U
+MA-HN-RED-1½x1,,"Reduccion HN 1½"" x 1""",,,U
+MA-HN-RED-1½x1¼,,"Reduccion HN 1½"" x 1 1/4""",,,U
+MA-HN-RED-1x¾,,"Reduccion HN 1"" x 3/4""",,,U
+MA-HN-RED-2½x2,,"Reducción HN 2 1/2"" x 2""",,,U
+MA-HN-RED-2x¾,,"Reducción HN 2"" x 3/4""",,,U
+MA-HN-RED-2x1,,"Reducción HN 2"" x 1""",,,U
+MA-HN-RED-2x1½,,"Reducción HN 2"" x 1½""",,,U
+MA-HN-RED-3x¾,,"Reducción HN 3"" x 3/4""",,,U
+MA-HN-RED-3x1,,"Reducción HN 3"" x 1""",,,U
+MA-HN-RED-3x1½,,"Reducción HN 3"" x 1½""",,,U
+MA-HN-RED-3x2,,"Reducción HN 3"" x 2""",,,U
+MA-HN-RED-3x2½,,"Reducción HN 3"" x 2 1/2""",,,U
+MA-HN-RED-4x3,,"Reducción HN 4"" x 3""",,,U
+MA-HN-RED-6x4,,"Reducción HN 6"" x 4""",,,U
+MA-HN-RED-COP-SOL-4x2,,"Reduccion Copa Soldable HN 4"" x 2""",,,U
+MA-HN-SCH40-RED-RAN-3x1½,,"Reducción HN Ranurado 3"" x 1½""",,,U
+MA-HN-SCH40-RED-RAN-3x2,,"Reducción HN Ranurado 3"" x 2""",,,U
+MA-HN-SCH40-RED-RAN-4x2,,"Reducción HN Ranurado 4"" x 2""",,,U
+MA-HN-SCH40-RED-RAN-4x3,,"Reducción HN Ranurado 4"" x 3""",,,U
+MA-HN-SCH40-RED-ROS-1x1/2,,"Reduccion HN Busch. Roscado 1"" x 1/2""",,,U
+MA-HN-SCH40-SCRA-TUB-½,,"Tubo HN SCH-40 sin Costura  de 1/2""",,,U
+MA-HN-SCH40-SCRA-TUB-¾,,"Tubo HN SCH-40 sin Costura  de 3/4""",,,U
+MA-HN-SCH40-SCRA-TUB-1,,"Tubo HN SCH-40 sin Costura  de 1""",,,U
+MA-HN-SCH40-SCRA-TUB-1¼,,"Tubo HN SCH-40 sin Costura  de 1 1/4""",,,U
+MA-HN-SCH40-SCRA-TUB-1½,,"Tubo HN SCH-40 sin Costura  de 1½""",,,U
+MA-HN-SCH40-SCRA-TUB-2,,"Tubo HN SCH-40 sin Costura  de 2""",,,U
+MA-HN-SCH40-SCRA-TUB-2½,,"Tubo HN SCH-40 sin Costura  de 2½""",,,U
+MA-HN-SCH40-SCRA-TUB-3,,"Tubo HN SCH-40 sin Costura  de 3""",,,U
+MA-HN-SCH40-SCRA-TUB-4,,"Tubo HN SCH-40 sin Costura  de 4""",,,U
+MA-HN-SCH40-SCRA-TUB-6,,"Tubo HN SCH-40 sin Costura  de 6""",,,U
+MA-HN-SCH40-TEE-RAN-½,,"Tee HN SCH-40 Ranurado 1/2""",,,U
+MA-HN-SCH40-TEE-RAN-¾,,"Tee HN SCH-40 Ranurado 3/4""",,,U
+MA-HN-SCH40-TEE-RAN-1,,"Tee HN SCH-40 Roscada 1""",,,U
+MA-HN-SCH40-TEE-RAN-1¼,,"Tee HN SCH-40 Ranurado 1 1/4"" ",,,U
+MA-HN-SCH40-TEE-RAN-1½,,"Tee HN SCH-40 Roscada 1½"" ",,,U
+MA-HN-SCH40-TEE-RAN-1½x1,,"Tee HN SCH-40 Roscada 1½"" x 1""",,,U
+MA-HN-SCH40-TEE-RAN-2,,"Tee HN SCH-40 Ranurado 2""",,,U
+MA-HN-SCH40-TEE-RAN-2½,,"Tee HN SCH-40 Ranurado 2 1/2""",,,U
+MA-HN-SCH40-TEE-RAN-2x1,,"Tee HN SCH-40 Ranurado 2"" x 1""",,,U
+MA-HN-SCH40-TEE-RAN-3,,"Tee HN SCH-40 Ranurado 3""",,,U
+MA-HN-SCH40-TEE-RAN-4,,"Tee HN SCH-40 Ranurado 4""",,,U
+MA-HN-SCH40-TEE-RAN-6,,"Tee HN SCH-40 Ranurado 6""",,,U
+MA-HN-SCH40-TEE-RO-½,,"Tee HN SCH-40 Roscado 1/2""",,,U
+MA-HN-SCH40-TEE-RO-¾,,"Tee HN SCH-40 Roscado 3/4""",,,U
+MA-HN-SCH40-TEE-RO-1,,"Tee HN SCH-40 Roscada 1""",,,U
+MA-HN-SCH40-TEE-RO-1¼,,"Tee HN SCH-40 Roscado 1 1/4"" ",,,U
+MA-HN-SCH40-TEE-RO-1½,,"Tee HN SCH-40 Roscada 1½"" ",,,U
+MA-HN-SCH40-TEE-RO-2,,"Tee HN SCH-40 Roscado 2""",,,U
+MA-HN-SCH40-TEE-RO-2½,,"Tee HN SCH-40 Roscado 2 1/2""",,,U
+MA-HN-SCH40-TEE-RO-3,,"Tee HN SCH-40 Roscado 3""",,,U
+MA-HN-SCH40-TEE-RO-4,,"Tee HN SCH-40 Roscado 4""",,,U
+MA-HN-SCH40-TEE-RO-6,,"Tee HN SCH-40 Roscado 6""",,,U
+MA-HN-SCH40-TUB-½,,"Tubo HN SCH-40 de 1/2""",,,U
+MA-HN-SCH40-TUB-¾,,"Tubo HN SCH-40 de 3/4""",,,U
+MA-HN-SCH40-TUB-1,,"Tubo HN SCH-40 de 1""",,,U
+MA-HN-SCH40-TUB-1¼,,"Tubo HN SCH-40 de 1 1/4""",,,U
+MA-HN-SCH40-TUB-1½,,"Tubo HN SCH-40 de 1½""",,,U
+MA-HN-SCH40-TUB-2,,"Tubo HN SCH-40 de 2""",,,U
+MA-HN-SCH40-TUB-2½,,"Tubo HN SCH-40 de 2½""",,,U
+MA-HN-SCH40-TUB-3,,"Tubo HN SCH-40 de 3""",,,U
+MA-HN-SCH40-TUB-4,,"Tubo HN SCH-40 de 4""",,,U
+MA-HN-SCH40-TUB-6,,"Tubo HN SCH-40 de 6""",,,U
+MA-HN-TAP-RAN-1,,"Tapa Ranurada HN 1""",,,U
+MA-HN-TAP-RAN-1½,,"Tapa Ranurada HN 1½""",,,U
+MA-HN-TAP-RAN-2,,"Tapa Ranurada HN 2""",,,U
+MA-HN-TAP-RAN-3,,"Tapa Ranurada HN 3""",,,U
+MA-HN-TAP-RAN-4,,"Tapa Ranurada HN 4""",,,U
+MA-HN-TAP-RAN-6,,"Tapa Ranurada HN 6""",,,U
+MA-HN-TEE-MEC-RAN-3x1½,,"Tee mecanica ranurada de 3"" x 1½""",,,U
+MA-HN-TEE-MEC-RAN-3x2,,"Tee mecanica ranurada de 3"" x 2""",,,U
+MA-HN-TEE-MEC-RAN-4x1,,"Tee mecanica ranurada de 3"" x 2""",,,U
+MA-HN-TEE-MEC-RAN-4x1½,,"Tee mecanica ranurada de 4"" x 1½""",,,U
+MA-HN-TEE-MEC-RAN-4x2,,"Tee mecanica ranurada de 3"" x 2""",,,U
+MA-HN-TEE-MEC-RAN-6x4,,"Tee mecanica ranurada de 3"" x 2""",,,U
+MA-HN-VAL-MAR-1,,"Válvula Mariposa HN de 1""",,,U
+MA-HN-VAL-MAR-2,,"Válvula Mariposa HN de 2""",,,U
+MA-HN-VAL-MAR-3,,"Válvula Mariposa HN de 3""",,,U
+MA-HN-VAL-MAR-4,,"Válvula Mariposa HN de 4""",,,U
+MA-HN-VAL-MAR-6,,"Válvula Mariposa HN de 6""",,,U
+MA-HN-VALS-3,,"Valvula Supervisada 3""",,,U
+MA-HN-VALS-4,,"Valvula Supervisada 4""",,,U
+MA-INOX-COD-RO-½x90,,"CODO ROSC. A/l SCH-40 T-304/304L 1/2"" X 90°",,,U
+MA-INOX-COD-RO-¾x90,,"CODO ROSC. A/l SCH-40 T-304/304L 3/4"" X 90""",,,U
+MA-INOX-COD-RO-1¼x90,,"CODO ROSC. A/l SCH-40 T-304/304L 1 1/4"" X 90°",,,U
+MA-INOX-COD-RO-1½x90,,"CODO ROSC. A/l SCH-40 T-304/304L 1 1/2"" X90°",,,U
+MA-INOX-COD-RO-1x90,,"CODO ROSC. A/l SCH-40 T-304/304L 1"" X 90""",,,U
+MA-INOX-COD-RO-2½x90,,"CODO ROSC. A/l SCH-40 T-304/304L 2-1/2"" X 90°",,,U
+MA-INOX-COD-RO-2x90,,"CODO ROSC. A/l SCH-40 T-304/304L 2"" X 90°",,,U
+MA-INOX-COD-RO-3x90,,"CODO ROSC. A/l SCH-40 T-304/304L 3"" X 90°",,,U
+MA-INOX-COD-RO-4x90,,"CODO ROSC. A/l SCH-40 T-304/304L 4"" X 90°",,,U
+MA-INOX-COUP-RO-½,,"COUPLING ROSC. A/l 304 SCH-40 1/2""",,,U
+MA-INOX-COUP-RO-¾,,"COUPLING ROSC. A/l 304 SCH-40 3/4""",,,U
+MA-INOX-COUP-RO-1,,"COUPLING ROSC. A/l 304 SCH-40 1""",,,U
+MA-INOX-COUP-RO-1¼,,"COUPLING ROSC. A/l 304 SCH-40 1 1/4""",,,U
+MA-INOX-COUP-RO-1½,,"COUPLING ROSC. A/l 304 SCH-40 1 1/2""",,,U
+MA-INOX-COUP-RO-2,,"COUPLING ROSC. A/l 304 SCH-40 2""",,,U
+MA-INOX-COUP-RO-3,,"COUPLING ROSC. A/l 304 SCH-40 3""",,,U
+MA-INOX-COUP-RO-4,,"COUPLING ROSC. A/l 304 SCH-40 4""",,,U
+MA-INOX-RED-RO-¾x½,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 3/4"" X 1/2""",,,U
+MA-INOX-RED-RO-1½x1,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 1 1/2"" X 1""",,,U
+MA-INOX-RED-RO-1½x1¼,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 11/2X1 1/4""",,,U
+MA-INOX-RED-RO-1x½,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 1"" X 1/2""",,,U
+MA-INOX-RED-RO-1x¾,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 1"" X 3/4""",,,U
+MA-INOX-RED-RO-2½x2,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 2 1/2"" X 2""",,,U
+MA-INOX-RED-RO-2x1½,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 2"" X 11/2""",,,U
+MA-INOX-RED-RO-3x2,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 3"" X 2""",,,U
+MA-INOX-RED-RO-3x2½,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 3"" X 2 1/2""",,,U
+MA-INOX-RED-RO-4x3,,"REDUCCION BUSH ROSC. A/l 304/304L SCH-40 4"" X 3""",,,U
+MA-INOX-SCH40-TUB-?,,"TUBO REDONDO A/l 304 SCH-40 3/8"" X 20'",,,U
+MA-INOX-SCH40-TUB-½,,"TUBO REDONDO A/l 304 SCH-40 1/2"" X 20'",,,U
+MA-INOX-SCH40-TUB-¾,,"TUBO REDONDO A/l 304 SCH-40 3/4"" X 20'",,,U
+MA-INOX-SCH40-TUB-1,,"TUBO REDONDO A/l 304 SCH-40 1"" X 20'",,,U
+MA-INOX-SCH40-TUB-1¼,,"TUBO REDONDO A/l 304 SCH-40 1-1/4"" X 20'",,,U
+MA-INOX-SCH40-TUB-1½,,"TUBO REDONDO A/l 304 SCH-40 1-1/2"" X 20'",,,U
+MA-INOX-SCH40-TUB-2,,"TUBO REDONDO A/l 304 SCH-40 2"" X 20'",,,U
+MA-INOX-SCH40-TUB-2½,,"TUBO REDONDO A/l 304 SCH-40 2-1/2"" X 20'",,,U
+MA-INOX-SCH40-TUB-3,,"TUBO REDONDO A/l 304 SCH-40 3"" X 20'",,,U
+MA-INOX-SCH40-TUB-4,,"TUBO REDONDO A/l 304 SCH-40 4"" X 20'",,,U
+MA-INOX-SCH40-TUB-6,,"TUBO REDONDO A/l 304 SCH-40 6"" X 20'",,,U
+MA-INOX-TEE-RO-½x90,,"TEE ROSC. A/l 304 SCH-40 1/2""",,,U
+MA-INOX-TEE-RO-¾x90,,"TEE ROSC. A/l 304 SCH-40 3/4""",,,U
+MA-INOX-TEE-RO-1½x90,,"TEE ROSC. A/l 304 SCH-40 1 1/2""",,,U
+MA-INOX-TEE-RO-1x90,,"TEE ROSC. A/l 304 SCH-40 1""",,,U
+MA-INOX-TEE-RO-2½x90,,"TEE ROSC. A/l 304 SCH-40 2 1/2""",,,U
+MA-INOX-TEE-RO-2x90,,"TEE ROSC. A/l 304 SCH-40 2""",,,U
+MA-INOX-TEE-RO-3x90,,"TEE ROSC. A/l 304 SCH-40 3""",,,U
+MA-INOX-TEE-RO-4x90,,"TEE ROSC. A/l 304 SCH-40 4""",,,U
+MA-INOX-VAL-¾,,"VALVULA DE BOLA ROSCADA P/C A/l T-304 3/4""",,,U
+MA-INOX-VAL-1,,"VALVULA DE BOLA ROSCADA P/C A/l T-304 1""",,,U
+MA-INOX-VAL-1¼,,"VALVULA DE BOLA ROSCADA P/C A/l T-304 1 1/4""",,,U
+MA-INOX-VAL-1½,,"VALVULA DE BOLA ROSCADA P/C A/l T-304 1 1/2""",,,U
+MA-INOX-VAL-2,,"VALVULA DE BOLA ROSCADA P/C A/l T-304 2""",,,U
+MA-INOX-VAL-3,,"VALVULA DE BOLA C/ATORN. ROSC. A/l T-304 3""",,,U
+MA-INOX-VAL-4,,"VALVULA DE BOLA C/ATORN. ROSC. A/l T-304 4""",,,U
+MA-MISC-ABR-PERA-½,,"Abrazadera Tipo Pera 1/2""",,,U
+MA-MISC-ABR-PERA-¾,,"Abrazadera Tipo Pera 3/4""",,,U
+MA-MISC-ABR-PERA-1,,"Abrazadera Tipo Pera 1""",,,U
+MA-MISC-ABR-PERA-1½,,"Abrazadera Tipo Pera 1 1/2""",,,U
+MA-MISC-ABR-PERA-2,,"Abrazadera Tipo Pera 2""",,,U
+MA-MISC-ABR-PERA-3,,"Abrazadera Tipo Pera 3""",,,U
+MA-MISC-ABR-PERA-4,,"Abrazadera Tipo Pera 4""",,,U
+MA-MISC-ABR-PERA-6,,"Abrazadera Tipo Pera 6""",,,U
+MA-MISC-ABR-PERA-8,,"Abrazadera Tipo Pera 8""",,,U
+MA-MISC-ABR-UNT-½,,"Abrazadera Unistrut  1/2""",,,U
+MA-MISC-ABR-UNT-¾,,"Abrazadera Unistrut  3/4""",,,U
+MA-MISC-ABR-UNT-1,,"Abrazadera Unistrut  1""",,,U
+MA-MISC-ABR-UNT-1½,,"Abrazadera Unistrut  1½""",,,U
+MA-MISC-ABR-UNT-2,,"Abrazadera Unistrut  2""",,,U
+MA-MISC-ABR-UNT-3,,"Abrazadera Unistrut  3""",,,U
+MA-MISC-ABR-UNT-4,,"Abrazadera Unistrut  4""",,,U
+MA-MISC-ABR-UNT-6,,"Abrazadera Unistrut  6""",,,U
+MA-MISC-ACE-RO,,Aceite para rosca,,,Gls
+MA-MISC-ADA-LLA-?x½,,"Adaptador para llave angular de 3/8"" x 1/2""",,,U
+MA-MISC-ADA-UNI-GOM,,Adaptador Universal de goma para desague ,,,U
+MA-MISC-ALAM,,Alambre Dulce,,,Lb
+MA-MISC-ARESIL-20-30,,Arena Silica de 20-30,,,U
+MA-MISC-BQA-FRE,,Boquilla para fregadero,,,U
+MA-MISC-BQA-LD,,Boquilla para lavadero,,,U
+MA-MISC-BQA-LM,,Boquilla p/lavamanos sin REBOSE con colita roscada,,,U
+MA-MISC-CAJC-GLP-32x20x8,,Caja para colector de GLP 32x20x8 cm,,,U
+MA-MISC-CAJ-LAV,,Caja para Lavadora,,,U
+MA-MISC-CAJM-10x8x4,,Caja registro metal de 10 x 8 x 4,,,U
+MA-MISC-CAJP-EM-12x8x4,,"Caja Plastica Empotrable 12""x8""x4""",,,U
+MA-MISC-CAJP-EM-8x8x4,,"Caja Plastica Empotrable 8""x8""x4""",,,U
+MA-MISC-CBD-1½x8,,"Cola C/ Bordillo1 1/2"" X 8"" ",,,U
+MA-MISC-CEM-PVC,,Cemento PVC Lanco Azul 32 Oz,,,U
+MA-MISC-CEM-PVC-REF,,Cemento PVC Gris 32 oz reforzado,,,U
+MA-MISC-CFNIQ-½,,"Cubre falta Niquelado de 1/2""",,,U
+MA-MISC-CFNIQ-1,,"Cubre falta Niquelado de 1""",,,U
+MA-MISC-CHA-UNT-1?x¾x10,,Channel unistrut 1-5/8x3/4x10 ,,,U
+MA-MISC-CINC,,"Cincel Punta Fina (Puntero ST. 3/4"" x 12')",,,U
+MA-MISC-CLV-2,,"Clavo de Acero 2""",,,Lb
+MA-MISC-COL-GAS-2SAL-¾x15,,"Colector de gas c/val. 2 salidas 3/4"" x 15mm",,,U
+MA-MISC-COL-GAS-3SAL-¾x15,,"Colector de gas c/val. 3 salidas 3/4"" x 15mm",,,U
+MA-MISC-COL-GAS-4SAL-¾x15,,"Colector de gas c/val. 4 salidas 3/4"" x 15mm",,,U
+MA-MISC-DAMP,,Damper,,,U
+MA-MISC-DUCT-AL,,Rollo Ductape de aluminio,,,U
+MA-MISC-DUCTN,,Rollo Duc-tape del Negro,,,U
+MA-MISC-ESPA,,Estopa multiusos Atlas,,,Lb
+MA-MISC-EXPH-?-HEM,,"Expansión Hilti HDI de 3/8"" (hembra)(Drop-IN Galv)",,,U
+MA-MISC-GENE,,"Rollo de Teflon Genebre 3/4"" x 50m",,,U
+MA-MIS-CHQH-1,,"Cheque Horizontal 1""",,,U
+MA-MISC-JTCERA-INO,,Junta de Cera P/Inodoro,,,U
+MA-MISC-LLA-?x?x¼,,"Llave Angular de 3/8"" x 3/8"" vuelta 1/4",,,U
+MA-MISC-LLCH-½,,"Llave Chorro 1/2""",,,U
+MA-MISC-LLCH-¾,,"Llave Chorro 3/4""",,,U
+MA-MISC-LLP-MAR-½,,"Llave de paso tipo mariposa  1/2""",,,U
+MA-MISC-LLP-MAR-¾,,"Llave de paso tipo mariposa  3/4""",,,U
+MA-MISC-LLP-MAR-1,,"Llave de paso tipo mariposa  1""",,,U
+MA-MISC-LLP-MAR-1½,,"Llave de paso tipo mariposa  1½""",,,U
+MA-MISC-LLP-MAR-2,,"Llave de paso tipo mariposa  2""",,,U
+MA-MISC-LLP-MAR-GLP-½,,"Llave de paso tipo mariposa  1/2"" para GLP",,,U
+MA-MISC-LLP-MAR-GLP-¾,,"Llave de paso tipo mariposa  3/4"" para GLP",,,U
+MA-MISC-LLP-MAR-GLP-1,,"Llave de paso tipo mariposa  1"" para GLP",,,U
+MA-MISC-LLP-MAR-GLP-1½,,"Llave de paso tipo mariposa  1½"" para GLP",,,U
+MA-MISC-LLP-MAR-GLP-2,,"Llave de paso tipo mariposa  2"" para GLP",,,U
+MA-MISC-MANG-CAL,,Manguera Flexible para Calentador,,,U
+MA-MISC-MANG-FLX-INO,,"Manguera Flexible EASTMAN PLAST. INODORO 20"" - Tca. Plast.",,,U
+MA-MISC-MANG-FLX-LM,,"Manguera Flexible  P/ Lavamanos 1/2"" - 3/8"" de 20""",,,U
+MA-MISC-MAPP-SOLD,,Mapp gas p/soldar,,,U
+MA-MISC-MED-AGU-½,,"Medidor de Agua  1/2""",,,U
+MA-MISC-MED-AGU-¾,,"Medidor de Agua  3/4""",,,U
+MA-MISC-MED-AGU-1,,"Medidor de Agua  1""",,,U
+MA-MISC-MED-AGU-1½,,"Medidor de Agua  1½""",,,U
+MA-MISC-MED-AGU-2,,"Medidor de Agua  2""",,,U
+MA-MISC-MGFLX-4,,"Manga flexible de 4""",,,M
+MA-MISC-MTA-3LB,,Maceta 3Lb. 1500G.,,,U
+MA-MISC-NIP-CRO-½x2½,,"Niple Cromado 1/2"" x 2-1/2""",,,U
+MA-MISC-NIP-INOX-¾x3,,"Niple inox de 3/4"" x 3""",,,U
+MA-MISC-PIN-SPR,,Pintura en Spray,,,U
+MA-MISC-PINT-ANTI,,Pintura Anticorrosiva Oxido Rojo 53 AAA,,,Gl
+MA-MISC-PLA-FIB-P3-4x13,,Plancha de Fibra p3 4 x 13,,,U
+MA-MISC-PLA-FIB-P8-4x14,,Plancha de Fibra p8 4 x 13,,,U
+MA-MISC-PLAT-RO-2,,"Platillo Roscado de 2""",,,U
+MA-MISC-PLAT-RO-3,,"Platillo Roscado de 3""",,,U
+MA-MISC-PLAT-SOL-3,,"Platillo Soldable de 3""",,,U
+MA-MISC-PLAT-SOL-4,,"Platillo Soldable de 4""",,,U
+MA-MISC-RACOR-½x1,,"Racor Marcella Extensión 1/2"" X 1 cm Niquelada",,,U
+MA-MISC-RACOR-½x1.5,,"Racor Marcella Extensión 1/2"" X 1.5 cm Niquelada",,,U
+MA-MISC-RACOR-½x2,,"Racor Marcella Extensión 1/2"" X 2 cm Niquelada",,,U
+MA-MISC-RACOR-½x2.5,,"Racor Marcella Extensión 1/2"" X 2.5 cm Niquelada",,,U
+MA-MISC-RACOR-½x3,,"Racor Marcella Extensión 1/2"" X 3 cm Niquelada",,,U
+MA-MISC-RED-COP-SOL-3x2½,,"Reduccion Copa Soldable 3""x2½""",,,U
+MA-MISC-RESB-INO,,Resbalon p/ Inod. PVC 3 - 4 Oatey #43501,,,U
+MA-MISC-RGU,,Regulador de Gas Segunda Etapa,,,U
+MA-MISC-SEG,,Hoja de Segueta,,,U
+MA-MISC-SIL-ANTI,,Silicon Antihongos Transparente,,,U
+MA-MISC-SOP-SCI-LONG-3,,"Soporte Antisismico Longitudinal 3""",,,U
+MA-MISC-SOP-SCI-TRAN-3,,"Soporte Antisismico Transversal 3""",,,U
+MA-MISC-TAR-PLAST-9/32x1½,,Tarugo plast. 9/32x1.1/2 verde,,,U
+MA-MISC-TBAS,,Par de Tornillos de Basineta,,,U
+MA-MISC-TEF-LIQ-16,,Teflon Liquido 16Oz Jomar White,,,U
+MA-MISC-THIN,,Thinner Tropical Gl. TH-1000,,,Gl
+MA-MISC-TISA,,Tisa p/Replanteo,,,U
+MA-MISC-TOR-TAR-¼x2,,Tornillo Para tarugo de plomo de 1/4 x 2,,,U
+MA-MISC-TUB-LIT-½,,"Tubería Liquid Tight 1/2""",,,Pie
+MA-MISC-TUER-?,,"Tuerca p/Varilla Roscada 3/8""",,,U
+MA-MISC-URE-SPR,,Uretano en Spray,,,U
+MA-MISC-VARP-SOLD,,Varilla de Plata p/soldar,,,U
+MA-PE-MANG-GLP-12,,Manguera para gas de polietileno negro 12mm,,,M
+MA-PE-MANG-GLP-15,,Manguera para gas de polietileno negro 15mm,,,M
+MA-PE-MANG-GLP-16,,Manguera para gas de polietileno negro 16mm,,,M
+MA-PE-MANG-GLP-18,,Manguera para gas de polietileno negro 18mm,,,M
+MA-PE-MANG-GLP-32,,Manguera para gas de polietileno negro 32mm,,,M
+MA-PE-MANG-GLP-40,,Manguera para gas de polietileno negro 40mm,,,M
+MA-PE-MANG-GLP-50,,Manguera para gas de polietileno negro 50mm,,,M
+MA-PE-MANG-GLP-63,,Manguera para gas de polietileno negro 63mm,,,M
+MA-PPR-ADA-HEM-110x4,,"Adaptador Hembra 110 X 4"" PPR",,,U
+MA-PPR-ADA-HEM-20x½,,"Adaptador Hembra 20 X 1/2"" PPR ",,,U
+MA-PPR-ADA-HEM-25x¾,,"Adaptador Hembra 25 X 3/4"" PPR ",,,U
+MA-PPR-ADA-HEM-32x1,,"Adaptador Hembra 32 X 1"" PPR ",,,U
+MA-PPR-ADA-HEM-50x1½,,"Adaptador Hembra 50 X1½"" PPR ",,,U
+MA-PPR-ADA-HEM-63x2,,"Adaptador Hembra 63 X 2"" PPR ",,,U
+MA-PPR-ADA-HEM-90x3,,"Adaptador Hembra 90 X 3"" PPR ",,,U
+MA-PPR-ADA-MAC-110x4,,"Adaptador Macho 110 X 4"" PPR ",,,U
+MA-PPR-ADA-MAC-20x½,,"Adaptador Macho 20 X 1/2"" PPR ",,,U
+MA-PPR-ADA-MAC-25x¾,,"Adaptador Macho 25 X 3/4"" PPR ",,,U
+MA-PPR-ADA-MAC-32x1,,"Adaptador Macho 32 X 1"" PPR ",,,U
+MA-PPR-ADA-MAC-50x1½,,Adaptador Macho 50 X 1-1/2 PPR ,,,U
+MA-PPR-ADA-MAC-63x2,,"Adaptador Macho 63 X 2"" PPR ",,,U
+MA-PPR-ADA-MAC-90x3,,"Adaptador Macho 90 X 3"" PPR ",,,U
+MA-PPR-COD-110x45º,,Codo A 45º 110MM PPR ,,,U
+MA-PPR-COD-110x90º,,Codo A 90º 110MM PPR ,,,U
+MA-PPR-COD-20x45º,,Codo A 45º 20MM PPR ,,,U
+MA-PPR-COD-20x90º,,Codo A 90º 20MM PPR ,,,U
+MA-PPR-COD-25x45º,,Codo A 45º 25MM  PPR ,,,U
+MA-PPR-COD-25x90º,,Codo A 90º 25MM PPR ,,,U
+MA-PPR-COD-32x45º,,Codo A 45º 32MM PPR ,,,U
+MA-PPR-COD-32x90º,,Codo A 90º 32MM PPR ,,,U
+MA-PPR-COD-50x45º,,Codo A 45º 50MM  PPR ,,,U
+MA-PPR-COD-50x90º,,Codo A 90º 50MM PPR,,,U
+MA-PPR-COD-63x45º,,Codo A 45º 63MM  PPR ,,,U
+MA-PPR-COD-63x90º,,Codo A 90º 63MM PPR ,,,U
+MA-PPR-COD-90x45º,,Codo A 45º 90MM PPR ,,,U
+MA-PPR-COD-90x90º,,Codo A 90º 90MM PPR ,,,U
+MA-PPR-COD-DBL-ROS-20x½,,"Codo Doble C/Rosca Hembra 20 X 1/2"" PPR ",,,U
+MA-PPR-COD-DBL-ROS-25x¾,,"Codo Doble C/Rosca Hembra 25 X 3/4"" PPR ",,,U
+MA-PPR-COD-ROS-20x½x90º,,Codo A 90° C/Rosca Hembra 20 X 1/2 PPR ,,,U
+MA-PPR-COD-ROS-25x½x90º,,Codo A 90° C/Rosca Hembra 25 X 1/2 PPR ,,,U
+MA-PPR-COD-ROS-25x¾x90º,,Codo A 90° C/Rosca Hembra 25 X 3/4 PPR ,,,U
+MA-PPR-COD-ROS-32x¾x90º,,Codo A 90° C/Rosca Hembra 32 X 3/4 PPR ,,,U
+MA-PPR-COD-ROS-32x1x90º,,Codo A 90° C/Rosca Hembra 32 X 1 PPR ,,,U
+MA-PPR-COUP-110,,Coupling 110MM PPR,,,U
+MA-PPR-COUP-20,,Coupling 20MM PPR ,,,U
+MA-PPR-COUP-25,,Coupling 25MM PPR ,,,U
+MA-PPR-COUP-32,,Coupling 32MM PPR ,,,U
+MA-PPR-COUP-50,,Coupling 50MM PPR ,,,U
+MA-PPR-COUP-63,,Coupling 63MM PPR,,,U
+MA-PPR-COUP-90,,Coupling 90MM PPR,,,U
+MA-PPR-MTRZ-110,,Matriz 110 MM Para Termofusora PPR,,,U
+MA-PPR-MTRZ-20,,Matriz 20 MM Para Termofusora PPR ,,,U
+MA-PPR-MTRZ-25,,Matriz 25 MM Para Termofusora PPR ,,,U
+MA-PPR-MTRZ-32,,Matriz 32 MM Para Termofusora PPR ,,,U
+MA-PPR-MTRZ-50,,Matriz 50 MM Para Termofusora PPR ,,,U
+MA-PPR-MTRZ-63,,Matriz 63 MM Para Termofusora PPR ,,,U
+MA-PPR-MTRZ-90,,Matriz 90 MM Para Termofusora PPR ,,,U
+MA-PPR-PLAT-50,,Platillo PPR 50MM,,,U
+MA-PPR-PLAT-90,,Platillo PPR 90MM,,,U
+MA-PPR-PN16-TUB-110,,Tubo Polipropileno 110MM X 4mt PN16 ,,,U
+MA-PPR-PN16-TUB-50,,Tubo Polipropileno 50MM X 4mt PN16 ,,,U
+MA-PPR-PN16-TUB-63,,Tubo Polipropileno 63MM X 4mt PN16 ,,,U
+MA-PPR-PN16-TUB-90,,Tubo Polipropileno 90MM X 4mt PN16 ,,,U
+MA-PPR-PN20-TUB-110,,Tubo Polipropileno 110MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-20,,Tubo Polipropileno 20MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-25,,Tubo Polipropileno 25MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-32,,Tubo Polipropileno 32MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-50,,Tubo Polipropileno 50MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-63,,Tubo Polipropileno 63MM X 4mt PN20 ,,,U
+MA-PPR-PN20-TUB-90,,Tubo Polipropileno 90MM X 4mt PN20 ,,,U
+MA-PPR-RED-BUSH-110x50,,Reduccion Bushing 110MM X 50MM PPR ,,,U
+MA-PPR-RED-BUSH-110x63,,Reduccion Bushing 110MM X 63MM PPR ,,,U
+MA-PPR-RED-BUSH-110x90,,Reduccion Bushing 110m X 90MM PPR ,,,U
+MA-PPR-RED-BUSH-25x20,,Reduccion Bushing 25 X 20MM  PPR ,,,U
+MA-PPR-RED-BUSH-32x20,,Reduccion Bushing 32 X 20MM  PPR ,,,U
+MA-PPR-RED-BUSH-32x25,,Reduccion Bushing 32 X 25MM PPR ,,,U
+MA-PPR-RED-BUSH-50x25,,Reduccion Bushing 50 X 25MM PPR,,,U
+MA-PPR-RED-BUSH-50x32,,Reduccion Bushing 50 X 32MM  PPR ,,,U
+MA-PPR-RED-BUSH-63x25,,Reduccion Bushing 63 X 25MM PPR,,,U
+MA-PPR-RED-BUSH-63x32,,Reduccion Bushing 63 X 32MM PPR ,,,U
+MA-PPR-RED-BUSH-63x50,,Reduccion Bushing 63 X 50MM  PPR ,,,U
+MA-PPR-RED-BUSH-90x50,,Reduccion Bushing 90 X 50MM PPR ,,,U
+MA-PPR-RED-BUSH-90x63,,Reduccion Bushing 90 X 63MM PPR ,,,U
+MA-PPR-RED-COP-50x32,,Reduccion Copa 50 x 32 MM  PPR,,,U
+MA-PPR-RED-COP-90x32,,Reduccion Copa 90 x 32 MM  PPR ,,,U
+MA-PPR-TAP-HEM-110,,Tapon Hembra 110MM PPR ,,,U
+MA-PPR-TAP-HEM-20,,Tapon Hembra 20MM PPR ,,,U
+MA-PPR-TAP-HEM-25,,Tapon Hembra 25MM PPR ,,,U
+MA-PPR-TAP-HEM-32,,Tapon Hembra 32MM PPR ,,,U
+MA-PPR-TAP-HEM-50,,Tapon Hembra 50MM PPR ,,,U
+MA-PPR-TAP-HEM-63,,Tapon Hembra 63MM PPR ,,,U
+MA-PPR-TAP-HEM-90,,Tapon Hembra 90MM PPR,,,U
+MA-PPR-TEE-110,,Tee 110MM PPR ,,,U
+MA-PPR-TEE-110x63x110,,Tee Reducida 110 X 63 X 110MM PPR ,,,U
+MA-PPR-TEE-110x90x110,,Tee Reducida 110 X 90 X 110MM PPR,,,U
+MA-PPR-TEE-20,,Tee 20MM PPR ,,,U
+MA-PPR-TEE-25,,Tee 25MM PPR ,,,U
+MA-PPR-TEE-25x20x25,,Tee Reducida 25 X 20 X 25MM PPR ,,,U
+MA-PPR-TEE-32,,Tee 32MM PPR ,,,U
+MA-PPR-TEE-32x20x32,,Tee Reducida 32 X 20 X 32MM PPR ,,,U
+MA-PPR-TEE-32x25x32,,Tee Reducida 32 X 25 X 32MM PPR ,,,U
+MA-PPR-TEE-50,,Tee 50MM PPR ,,,U
+MA-PPR-TEE-50x20x50,,Tee Reducida 50 X 20 X 50MM PPR ,,,U
+MA-PPR-TEE-50x25x50,,Tee Reducida 50 X 25 X 50MM PPR ,,,U
+MA-PPR-TEE-50x32x50,,Tee Reducida 50 X 32 X 50MM PPR ,,,U
+MA-PPR-TEE-63,,Tee 63MM PPR ,,,U
+MA-PPR-TEE-63x20x63,,Tee Reducida 63 X 20 X 63MM PPR ,,,U
+MA-PPR-TEE-63x25x63,,Tee Reducida 63 X 25 X 63MM PPR ,,,U
+MA-PPR-TEE-63x32x63,,Tee Reducida 63 X 32 X 63MM PPR ,,,U
+MA-PPR-TEE-63x50x63,,Tee Reducida 63 X 50 X 63MM PPR ,,,U
+MA-PPR-TEE-90,,Tee 90MM PPR ,,,U
+MA-PPR-TEE-90x50x90,,Tee Reducida 90 X 50 X 90MM PPR ,,,U
+MA-PPR-TEE-90x63x90,,Tee Reducida 90 X 63 X 90MM PPR ,,,U
+MA-PPR-TERM110v-20-63,,Termofusora 110v. 20-63MM PPR ,,,U
+MA-PPR-TERM220v-20-63,,Termofusora 220v. 20-63MM PPR ,,,U
+MA-PPR-TERM220v-50-110,,Termofusora 220v. 50-110MM PPR ,,,U
+MA-PPR-TIJ-20-25-32,,Tijera Corta Tubo 20-25-32MM PPR ,,,U
+MA-PPR-VAL-BOL-20,,Valvula de Bola 20MM PPR ,,,U
+MA-PPR-VAL-BOL-25,,Valvula de Bola 25MM PPR ,,,U
+MA-PPR-VAL-BOL-32,,Valvula de Bola 32MM PPR ,,,U
+MA-PPR-VAL-BOL-50,,Valvula de Bola 50MM PPR ,,,U
+MA-PPR-VAL-BOL-63,,Valvula de Bola 63MM PPR ,,,U
+MA-PPR-VAL-BOL-UM-110,,Valvula Esferica 110MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-20,,Valvula Esferica 20MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-25,,Valvula Esferica 25MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-32,,Valvula Esferica 32MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-50,,Valvula Esferica 50MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-63,,Valvula Esferica 63MM C/Union Metalica ,,,U
+MA-PPR-VAL-BOL-UM-90,,Valvula Esferica 90MM C/Union Metalica ,,,U
+MA-PPR-VAL-RGP-25,,Valvula Reguladora de presión 25mm,,,U
+MA-PPR-VAL-RGP-32,,Valvula Reguladora de presión 32mm,,,U
+MA-PPR-VAL-RGP-63,,Valvula Reguladora de presión 63mm,,,U
+MA-PVC-ARA-4,,"Arandela pvc de 4""",,,U
+MA-PVC-DREN-COD-1½x45º,,"Codo PVC Drenaje 1½"" x 45º",,,U
+MA-PVC-DREN-COD-1½x90º,,"Codo PVC Drenaje 1½"" x 90º",,,U
+MA-PVC-DREN-COD-2x45º,,"Codo PVC Drenaje 2"" x 45º",,,U
+MA-PVC-DREN-COD-2x90º,,"Codo PVC Drenaje 2"" x 90º",,,U
+MA-PVC-DREN-COD-3x45º,,"Codo PVC Drenaje 3"" x 45º",,,U
+MA-PVC-DREN-COD-3x90º,,"Codo PVC Drenaje 3"" x 90º",,,U
+MA-PVC-DREN-COD-4x45º,,"Codo PVC Drenaje 4"" x 45º",,,U
+MA-PVC-DREN-COD-4x90º,,"Codo PVC Drenaje 4"" x 90º",,,U
+MA-PVC-DREN-COD-6x45º,,"Codo PVC Drenaje 6"" x 45º",,,U
+MA-PVC-DREN-COD-6x90º,,"Codo PVC Drenaje 6"" x 90º",,,U
+MA-PVC-DREN-COD-8x45º,,"Codo PVC Drenaje 8"" x 45º",,,U
+MA-PVC-DREN-COD-8x90º,,"Codo PVC Drenaje 8"" x 90º",,,U
+MA-PVC-DREN-COUP-1½,,"Coupling PVC Drenaje 1 1/2""",,,U
+MA-PVC-DREN-COUP-2,,"Coupling PVC Drenaje 2""",,,U
+MA-PVC-DREN-COUP-3,,"Coupling PVC Drenaje 3""",,,U
+MA-PVC-DREN-COUP-4,,"Coupling PVC Drenaje 4""",,,U
+MA-PVC-DREN-COUP-6,,"Coupling PVC Drenaje 6""",,,U
+MA-PVC-DREN-COUP-8,,"Coupling PVC Drenaje 8""",,,U
+MA-PVC-DREN-RED-2x1½,,"Reducción PVC Drenaje 2"" x 1 1/2""",,,U
+MA-PVC-DREN-RED-3x2,,"Reducción PVC Drenaje 3"" x 2""",,,U
+MA-PVC-DREN-RED-4x2,,"Reducción PVC Drenaje 4"" x 2""",,,U
+MA-PVC-DREN-RED-4x3,,"Reducción PVC Drenaje 4"" x 3""",,,U
+MA-PVC-DREN-RED-6x4,,"Reducción PVC Drenaje 6"" x 4""",,,U
+MA-PVC-DREN-RED-8x4,,"Reducción PVC Drenaje 8"" x 4""",,,U
+MA-PVC-DREN-RED-8x6,,"Reducción PVC Drenaje 8"" x 6""",,,U
+MA-PVC-DREN-SIF-2,,"Sifón PVC 2""",,,U
+MA-PVC-DREN-SIF-DBL-FRE,,Sifon pvc doble p/fregadero flexible,,,U
+MA-PVC-DREN-SIF-LM,,Sifon p/lavam senc. ,,,U
+MA-PVC-DREN-TAP-HEM-1½,,"Tapón Hembra PVC Drenaje 1 1/2""",,,U
+MA-PVC-DREN-TAP-HEM-2,,"Tapón Hembra PVC Drenaje 2""",,,U
+MA-PVC-DREN-TAP-HEM-3,,"Tapón Hembra PVC Drenaje 3""",,,U
+MA-PVC-DREN-TAP-HEM-4,,"Tapón Hembra PVC Drenaje 4""",,,U
+MA-PVC-DREN-TAP-HEM-6,,"Tapón Hembra PVC Drenaje 6""",,,U
+MA-PVC-DREN-TAP-HEM-8,,"Tapón Hembra PVC Drenaje 8""",,,U
+MA-PVC-DREN-TAP-REG-2x2,,"Tapón Registro PVC Drenaje 2"" x 2""",,,U
+MA-PVC-DREN-TAP-REG-3x3,,"Tapón Registro PVC Drenaje 3"" x 3""",,,U
+MA-PVC-DREN-TAP-REG-4x4,,"Tapón Registro PVC Drenaje 4"" x 4""",,,U
+MA-PVC-DREN-TAP-REG-6x6,,"Tapón Registro PVC Drenaje 6"" x 6""",,,U
+MA-PVC-DREN-TEE-1½x1½,,"Tee PVC Drenaje 1½"" x 1½",,,U
+MA-PVC-DREN-TEE-2x2,,"Tee PVC Drenaje 2"" x 2""",,,U
+MA-PVC-DREN-TEE-3x2,,"Tee PVC Drenaje 3"" x 2""",,,U
+MA-PVC-DREN-TEE-3x3,,"Tee PVC Drenaje 3"" x 3""",,,U
+MA-PVC-DREN-TEE-4x2,,"Tee PVC Drenaje 4"" x 2""",,,U
+MA-PVC-DREN-TEE-4x3,,"Tee PVC Drenaje 4"" x 3""",,,U
+MA-PVC-DREN-TEE-4x4,,"Tee PVC Drenaje 4"" x 4""",,,U
+MA-PVC-DREN-TEE-6x4,,"Tee PVC Drenaje 6"" x 4""",,,U
+MA-PVC-DREN-TEE-6x6,,"Tee PVC Drenaje 6"" x 6""",,,U
+MA-PVC-DREN-TEE-8x8,,"Tee PVC Drenaje 8"" x 8""",,,U
+MA-PVC-DREN-TUB-2,,"Tubo PVC Drenaje 2""",,,U
+MA-PVC-DREN-TUB-3,,"Tubo PVC Drenaje 3""",,,U
+MA-PVC-DREN-TUB-4,,"Tubo PVC Drenaje 4""",,,U
+MA-PVC-DREN-TUB-6,,"Tubo PVC Drenaje 6""",,,U
+MA-PVC-DREN-TUB-8,,"Tubo PVC Drenaje 8""",,,U
+MA-PVC-DREN-YEE-2x2,,"Yee PVC Drenaje 2"" x 2""",,,U
+MA-PVC-DREN-YEE-3x2,,"Yee PVC Drenaje 3"" x 2""",,,U
+MA-PVC-DREN-YEE-3x3,,"Yee PVC Drenaje 3"" x 3""",,,U
+MA-PVC-DREN-YEE-4x2,,"Yee PVC Drenaje 4"" x 2""",,,U
+MA-PVC-DREN-YEE-4x3,,"Yee PVC Drenaje 4"" x 3""",,,U
+MA-PVC-DREN-YEE-4x4,,"Yee PVC Drenaje 4"" x 4""",,,U
+MA-PVC-DREN-YEE-6x4,,"Yee PVC Drenaje 6"" x 4""",,,U
+MA-PVC-DREN-YEE-6x6,,"Yee PVC Drenaje 6"" x 6""",,,U
+MA-PVC-DREN-YEE-8x6,,"Yee PVC Drenaje 8"" x 6""",,,U
+MA-PVC-DREN-YEE-8x8,,"Yee PVC Drenaje 8"" x 8""",,,U
+MA-PVC-PISC-VAL-DBLU-2,,"Válvula Doble Unión PVC 2"" para Piscina",,,U
+MA-PVC-SCH40-ADA-HEM-½,,"Adaptador H. PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-ADA-HEM-¾,,"Adaptador H. PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-ADA-HEM-1,,"Adaptador H. PVC SCH-40 1""",,,U
+MA-PVC-SCH40-ADA-HEM-1½,,"Adaptador H. PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-ADA-HEM-2,,"Adaptador H. PVC SCH-40 2""",,,U
+MA-PVC-SCH40-ADA-HEM-3,,"Adaptador H. PVC SCH-40 3""",,,U
+MA-PVC-SCH40-ADA-HEM-4,,"Adaptador H. PVC SCH-40 4""",,,U
+MA-PVC-SCH40-ADA-MAC-½,,"Adaptador M. PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-ADA-MAC-¾,,"Adaptador M. PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-ADA-MAC-1,,"Adaptador M. PVC SCH-40 1""",,,U
+MA-PVC-SCH40-ADA-MAC-1½,,"Adaptador M. PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-ADA-MAC-2,,"Adaptador M. PVC SCH-40 2""",,,U
+MA-PVC-SCH40-ADA-MAC-3,,"Adaptador M. PVC SCH-40 3""",,,U
+MA-PVC-SCH40-ADA-MAC-4,,"Adaptador M. PVC SCH-40 4""",,,U
+MA-PVC-SCH40-COD-½x45º,,"Codo PVC SCH-40 1/2"" x 45º",,,U
+MA-PVC-SCH40-COD-½x90º,,"Codo PVC SCH-40 1/2"" x 90º",,,U
+MA-PVC-SCH40-COD-¾x45º,,"Codo PVC SCH-40 3/4"" x 45º",,,U
+MA-PVC-SCH40-COD-¾x90º,,"Codo PVC SCH-40 3/4"" x 90º",,,U
+MA-PVC-SCH40-COD-1½x45º,,"Codo PVC SCH-40 1½"" x 45º",,,U
+MA-PVC-SCH40-COD-1½x90º,,"Codo PVC SCH-40 1½"" x 90º",,,U
+MA-PVC-SCH40-COD-1x45º,,"Codo PVC SCH-40 1"" x 45º",,,U
+MA-PVC-SCH40-COD-1x90º,,"Codo PVC SCH-40 1"" x 90º",,,U
+MA-PVC-SCH40-COD-2x45º,,"Codo PVC SCH-40 2"" x 45º",,,U
+MA-PVC-SCH40-COD-2x90º,,"Codo PVC SCH-40 2"" x 90º",,,U
+MA-PVC-SCH40-COD-3x45º,,"Codo PVC SCH-40 3"" x 45º",,,U
+MA-PVC-SCH40-COD-3x90º,,"Codo PVC SCH-40 3"" x 90º",,,U
+MA-PVC-SCH40-COD-4x45º,,"Codo PVC SCH-40 4"" x 45º",,,U
+MA-PVC-SCH40-COD-4x90º,,"Codo PVC SCH-40 4"" x 90º",,,U
+MA-PVC-SCH40-COD-6x45º,,"Codo PVC SCH-40 6"" x 45º",,,U
+MA-PVC-SCH40-COD-6x90º,,"Codo PVC SCH-40 6"" x 90º",,,U
+MA-PVC-SCH40-COD-8x45º,,"Codo PVC SCH-40 8"" x 45º",,,U
+MA-PVC-SCH40-COD-8x90º,,"Codo PVC SCH-40 8"" x 90º",,,U
+MA-PVC-SCH40-COUP-½,,"Coupling PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-COUP-¾,,"Coupling PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-COUP-1,,"Coupling PVC SCH-40 1""",,,U
+MA-PVC-SCH40-COUP-1½,,"Coupling PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-COUP-2,,"Coupling PVC SCH-40 2""",,,U
+MA-PVC-SCH40-COUP-3,,"Coupling PVC SCH-40 3""",,,U
+MA-PVC-SCH40-COUP-4,,"Coupling PVC SCH-40 4""",,,U
+MA-PVC-SCH40-COUP-6,,"Coupling PVC SCH-40 6""",,,U
+MA-PVC-SCH40-COUP-8,,"Coupling PVC SCH-40 8""",,,U
+MA-PVC-SCH40-RED-½x¼,,"Reducción PVC SCH-40 1/2"" x 1/4""",,,U
+MA-PVC-SCH40-RED-¾x½,,"Reducción PVC SCH-40 3/4"" x 1/2""",,,U
+MA-PVC-SCH40-RED-1½x½,,"Reducción PVC SCH-40 1½"" x 1/2""",,,U
+MA-PVC-SCH40-RED-1½x¾,,"Reducción PVC SCH-40 1½"" x 3/4""",,,U
+MA-PVC-SCH40-RED-1½x1,,"Reducción PVC SCH-40 1½"" x 1""",,,U
+MA-PVC-SCH40-RED-1x½,,"Reducción PVC SCH-40 1"" x 1/2""",,,U
+MA-PVC-SCH40-RED-1x¾,,"Reducción PVC SCH-40 1"" x 3/4""",,,U
+MA-PVC-SCH40-RED-2x1,,"Reducción PVC SCH-40 2"" x 1""",,,U
+MA-PVC-SCH40-RED-2x1½,,"Reducción PVC SCH-40 2"" x 1½""",,,U
+MA-PVC-SCH40-RED-3x2,,"Reducción PVC SCH-40 3"" x 2""",,,U
+MA-PVC-SCH40-RED-4x3,,"Reducción PVC SCH-40 4"" x 3""",,,U
+MA-PVC-SCH40-RED-6x4,,"Reducción PVC SCH-40 6"" x 4""",,,U
+MA-PVC-SCH40-RED-8x6,,"Reducción PVC SCH-40 8"" x 6""",,,U
+MA-PVC-SCH40-TAP-HEM-½,,"Tapón Hembra PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-TAP-HEM-¾,,"Tapón Hembra PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-TAP-HEM-1,,"Tapón Hembra PVC SCH-40 1""",,,U
+MA-PVC-SCH40-TAP-HEM-1½,,"Tapón Hembra PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-TAP-HEM-2,,"Tapón Hembra PVC SCH-40 2""",,,U
+MA-PVC-SCH40-TAP-HEM-3,,"Tapón Hembra PVC SCH-40 3""",,,U
+MA-PVC-SCH40-TAP-HEM-4,,"Tapón Hembra PVC SCH-40 4""",,,U
+MA-PVC-SCH40-TAP-HEM-6,,"Tapón Hembra PVC SCH-40 6""",,,U
+MA-PVC-SCH40-TAP-HEM-8,,"Tapón Hembra PVC SCH-40 8""",,,U
+MA-PVC-SCH40-TEE-½x½,,"Tee PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-TEE-¾x¾,,"Tee PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-TEE-1½x1½,,"Tee PVC SCH-40 1½"" ",,,U
+MA-PVC-SCH40-TEE-1x1,,"Tee PVC SCH-40 1"" ",,,U
+MA-PVC-SCH40-TEE-2x2,,"Tee PVC SCH-40 2""",,,U
+MA-PVC-SCH40-TEE-3x3,,"Tee PVC SCH-40 3""",,,U
+MA-PVC-SCH40-TEE-4x4,,"Tee PVC SCH-40 4""",,,U
+MA-PVC-SCH40-TEE-6x6,,"Tee PVC SCH-40 6""",,,U
+MA-PVC-SCH40-TEE-8x8,,"Tee PVC SCH-40 8""",,,U
+MA-PVC-SCH40-TUB-½,,"Tubo PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-TUB-¾,,"Tubo PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-TUB-1,,"Tubo PVC SCH-40 1""",,,U
+MA-PVC-SCH40-TUB-1½,,"Tubo PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-TUB-2,,"Tubo PVC SCH-40 2""",,,U
+MA-PVC-SCH40-TUB-3,,"Tubo PVC SCH-40 3""",,,U
+MA-PVC-SCH40-TUB-4,,"Tubo PVC SCH-40 4""",,,U
+MA-PVC-SCH40-TUB-6,,"Tubo PVC SCH-40 6""",,,U
+MA-PVC-SCH40-TUB-8,,"Tubo PVC SCH-40 8""",,,U
+MA-PVC-SCH40-VAL-BOL-½,,"Válvula de Bola PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-VAL-BOL-¾,,"Válvula de Bola PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-VAL-BOL-1,,"Válvula de Bola PVC SCH-40 1""",,,U
+MA-PVC-SCH40-VAL-BOL-1½,,"Válvula de Bola PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-VAL-BOL-2,,"Válvula de Bola PVC SCH-40 2""",,,U
+MA-PVC-SCH40-VAL-BOL-3,,"Válvula de Bola PVC SCH-40 3""",,,U
+MA-PVC-SCH40-VAL-BOL-4,,"Válvula de Bola PVC SCH-40 4""",,,U
+MA-PVC-SCH40-VAL-BOL-6,,"Válvula de Bola PVC SCH-40 6""",,,U
+MA-PVC-SCH40-VAL-DBLU-½,,"Válvula Doble Unión PVC SCH-40 1/2""",,,U
+MA-PVC-SCH40-VAL-DBLU-¾,,"Válvula Doble Unión PVC SCH-40 3/4""",,,U
+MA-PVC-SCH40-VAL-DBLU-1,,"Válvula Doble Unión PVC SCH-40 1""",,,U
+MA-PVC-SCH40-VAL-DBLU-1½,,"Válvula Doble Unión PVC SCH-40 1½""",,,U
+MA-PVC-SCH40-VAL-DBLU-2,,"Válvula Doble Unión PVC SCH-40 2""",,,U
+MA-PVC-SCH40-VAL-DBLU-3,,"Válvula Doble Unión PVC SCH-40 3""",,,U
+MA-PVC-SCH40-VAL-DBLU-4,,"Válvula Doble Unión PVC SCH-40 4""",,,U
+MA-PVC-SCH40-VAL-DBLU-6,,"Válvula Doble Unión PVC SCH-40 6""",,,U
+MA-PVC-SCH80-TUB-½,,"Tubo PVC  SCH-80 1/2"" ",,,U
+MA-PVC-SCH80-TUB-¾,,"Tubo PVC  SCH-80 3/4""",,,U
+MA-PVC-SCH80-TUB-1,,"Tubo PVC  SCH-80 1""",,,U
+MA-PVC-SCH80-TUB-1½,,"Tubo PVC  SCH-80 1½""",,,U
+MA-PVC-SCH80-TUB-2,,"Tubo PVC  SCH-80 2""",,,U
+MA-PVC-SCH80-TUB-3,,"Tubo PVC  SCH-80 3""",,,U
+MA-PVC-SCH80-TUB-4,,"Tubo PVC  SCH-80 4""",,,U
+MA-PVC-SCH80-TUB-6,,"Tubo PVC  SCH-80 6""",,,U
+MA-PVC-SCH80-TUB-8,,"Tubo PVC  SCH-80 8""",,,U
+MA-PVC-SDR26-CUR-½,,"Curva PVC 1/2"" SDR-26",,,U
+MA-PVC-SDR26-CUR-¾,,"Curva PVC 3/4"" SDR-26",,,U
+MA-PVC-SDR26-CUR-1,,"Curva PVC 1"" SDR-26",,,U
+MA-PVC-SDR26-CUR-1½,,"Curva PVC 1½"" SDR-26 ",,,U
+MA-PVC-SDR26-CUR-2,,"Curva PVC 2"" SDR-26 ",,,U
+MA-PVC-SDR26-CUR-3,,"Curva PVC 3"" SDR-26",,,U
+MA-PVC-SDR26-CUR-4,,"Curva PVC 4"" SDR-26",,,U
+MA-PVC-SDR26-TUB-½,,"Tubo PVC SDR-26 1/2"" ",,,U
+MA-PVC-SDR26-TUB-¾,,"Tubo PVC SDR-26 3/4""",,,U
+MA-PVC-SDR26-TUB-1,,"Tubo PVC SDR-26 1""",,,U
+MA-PVC-SDR26-TUB-10,,"Tubo PVC SDR-26 10""",,,U
+MA-PVC-SDR26-TUB-1½,,"Tubo PVC SDR-26 1½""",,,U
+MA-PVC-SDR26-TUB-12,,"Tubo PVC SDR-26 12""",,,U
+MA-PVC-SDR26-TUB-2,,"Tubo PVC SDR-26 2""",,,U
+MA-PVC-SDR26-TUB-3,,"Tubo PVC SDR-26 3""",,,U
+MA-PVC-SDR26-TUB-4,,"Tubo PVC SDR-26 4""",,,U
+MA-PVC-SDR26-TUB-6,,"Tubo PVC SDR-26 6""",,,U
+MA-PVC-SDR26-TUB-8,,"Tubo PVC SDR-26 8""",,,U
+MA-PVC-SDR32.5-TUB-½,,"Tubo PVC SDR-32.5 1/2""",,,U
+MA-PVC-SDR32.5-TUB-¾,,"Tubo PVC SDR-32.5 3/4""",,,U
+MA-PVC-SDR32.5-TUB-1,,"Tubo PVC SDR-32.5 1""",,,U
+MA-PVC-SDR32.5-TUB-10,,"Tubo PVC SDR-32.5 10""",,,U
+MA-PVC-SDR32.5-TUB-1½,,"Tubo PVC SDR-32.5 1½""",,,U
+MA-PVC-SDR32.5-TUB-12,,"Tubo PVC SDR-32.5 12""",,,U
+MA-PVC-SDR32.5-TUB-16,,"Tubo PVC SDR-32.5 16""",,,U
+MA-PVC-SDR32.5-TUB-18,,"Tubo PVC SDR-32.5 18""",,,U
+MA-PVC-SDR32.5-TUB-2,,"Tubo PVC SDR-32.5 2""",,,U
+MA-PVC-SDR32.5-TUB-20,,"Tubo PVC SDR-32.5 20""",,,U
+MA-PVC-SDR32.5-TUB-24,,"Tubo PVC SDR-32.5 24""",,,U
+MA-PVC-SDR32.5-TUB-3,,"Tubo PVC SDR-32.5 3""",,,U
+MA-PVC-SDR32.5-TUB-4,,"Tubo PVC SDR-32.5 4""",,,U
+MA-PVC-SDR32.5-TUB-6,,"Tubo PVC SDR-32.5 6""",,,U
+MA-PVC-SDR32.5-TUB-8,,"Tubo PVC SDR-32.5 8""",,,U
+MA-PVC-SDR41-TUB-10,,"Tubo PVC SDR-41 10""",,,U
+MA-PVC-SDR41-TUB-1½,,"Tubo PVC SDR-41 1½"" ",,,U
+MA-PVC-SDR41-TUB-12,,"Tubo PVC SDR-41 12""",,,U
+MA-PVC-SDR41-TUB-16,,"Tubo PVC SDR-41 16""",,,U
+MA-PVC-SDR41-TUB-18,,"Tubo PVC SDR-41 18""",,,U
+MA-PVC-SDR41-TUB-2,,"Tubo PVC SDR-41 2""",,,U
+MA-PVC-SDR41-TUB-20,,"Tubo PVC SDR-41 20""",,,U
+MA-PVC-SDR41-TUB-24,,"Tubo PVC SDR-41 24""",,,U
+MA-PVC-SDR41-TUB-3,,"Tubo PVC SDR-41 3""",,,U
+MA-PVC-SDR41-TUB-4,,"Tubo PVC SDR-41 4""",,,U
+MA-PVC-SDR41-TUB-6,,"Tubo PVC SDR-41 6""",,,U
+MA-PVC-SDR41-TUB-8,,"Tubo PVC SDR-41 8""",,,U
+MA-PVC-TAP-HEM-½,,"Tapon Hembra pvc de 1/2""",,,U
+MA-PVC-UNU-½,,"Unión universal PVC 1/2""",,,U
+MA-PVC-UNU-¾,,"Unión universal PVC 3/4""",,,U
+MA-PVC-UNU-1,,"Unión universal PVC 1""",,,U
+MA-PVC-UNU-1½,,"Unión universal PVC 1½""",,,U
+MA-PVC-UNU-2,,"Unión universal PVC 2""",,,U
+MA-PVC-UNU-3,,"Unión universal PVC 3""",,,U
+MA-PVC-UNU-4,,"Unión universal PVC 4""",,,U
+MA-PVC-UNU-6,,"Unión universal PVC 6""",,,U
+MA-REG-VAL,,Registro para Valvulas,,,U
+MO,,Mano de Obra,,,HH
