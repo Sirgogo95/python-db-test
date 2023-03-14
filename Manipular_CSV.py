@@ -1,6 +1,6 @@
 import mysql.connector
 import pandas as pd
-from tabulate import tabulate
+
 
 mydb = mysql.connector.connect(
     host="localhost",
@@ -55,17 +55,9 @@ def Agregar_Precios_CSV():
     mydb.commit()
 
 
-
-def Table_Exist():
-    mycursor.execute("show tables")
-    for _ in mycursor:
-        print(_[0])
-
-
-
 def main():
-    Table_Exist()
-
+    print("mydatabase")
+  
 
 if __name__ == "__main__":
 
